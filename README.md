@@ -3,7 +3,7 @@ This repository contains the complete firmware for an ESP32 microcontroller that
 
 ## System Specifications
 
-- 36 V TEC modules: Two independent branches, modules connected in series
+- 6 × 12 V TEC modules: Two independent branches, modules connected in series to total up to 36 V per branch
 - Airflow:
   - 6 × 24 V fans (parallel) for heated/cooled air distribution
   - 6 × 12 V fans (parallel) for TEC module cooling
