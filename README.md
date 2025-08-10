@@ -1,0 +1,2 @@
+Here you can view the entirety of the code deployed on an ESP32 microcontroller than runs a system of 36V-branched thermoelectric peltier modules, 24V fans, and 5V mosfets designed to control their speed.
+Included as well is the code necessary to handle server logic when the client wishes to connect to its access point, javascript plotting data, and autonomous control functions when enabled by the user.
